@@ -1,0 +1,14 @@
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.AssemblyInfoInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.AssemblyInfo.cs
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.csproj.CoreCompileInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs13\bin\Debug\net9.0\cs13.exe
+C:\Doku\dev\code\.net\csharpfeature\cs13\bin\Debug\net9.0\cs13.deps.json
+C:\Doku\dev\code\.net\csharpfeature\cs13\bin\Debug\net9.0\cs13.runtimeconfig.json
+C:\Doku\dev\code\.net\csharpfeature\cs13\bin\Debug\net9.0\cs13.dll
+C:\Doku\dev\code\.net\csharpfeature\cs13\bin\Debug\net9.0\cs13.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.dll
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\refint\cs13.dll
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\cs13.genruntimeconfig.cache
+C:\Doku\dev\code\.net\csharpfeature\cs13\obj\Debug\net9.0\ref\cs13.dll
