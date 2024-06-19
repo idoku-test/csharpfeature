@@ -1,0 +1,15 @@
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.AssemblyInfoInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.AssemblyInfo.cs
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.csproj.CoreCompileInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.sourcelink.json
+C:\Doku\dev\code\.net\csharpfeature\cs12\bin\Debug\net9.0\cs12.exe
+C:\Doku\dev\code\.net\csharpfeature\cs12\bin\Debug\net9.0\cs12.deps.json
+C:\Doku\dev\code\.net\csharpfeature\cs12\bin\Debug\net9.0\cs12.runtimeconfig.json
+C:\Doku\dev\code\.net\csharpfeature\cs12\bin\Debug\net9.0\cs12.dll
+C:\Doku\dev\code\.net\csharpfeature\cs12\bin\Debug\net9.0\cs12.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.dll
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\refint\cs12.dll
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\cs12.genruntimeconfig.cache
+C:\Doku\dev\code\.net\csharpfeature\cs12\obj\Debug\net9.0\ref\cs12.dll
