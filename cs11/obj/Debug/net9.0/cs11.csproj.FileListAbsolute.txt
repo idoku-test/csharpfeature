@@ -1,0 +1,15 @@
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.AssemblyInfoInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.AssemblyInfo.cs
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.csproj.CoreCompileInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.sourcelink.json
+C:\Doku\dev\code\.net\csharpfeature\cs11\bin\Debug\net9.0\cs11.exe
+C:\Doku\dev\code\.net\csharpfeature\cs11\bin\Debug\net9.0\cs11.deps.json
+C:\Doku\dev\code\.net\csharpfeature\cs11\bin\Debug\net9.0\cs11.runtimeconfig.json
+C:\Doku\dev\code\.net\csharpfeature\cs11\bin\Debug\net9.0\cs11.dll
+C:\Doku\dev\code\.net\csharpfeature\cs11\bin\Debug\net9.0\cs11.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.dll
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\refint\cs11.dll
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\cs11.genruntimeconfig.cache
+C:\Doku\dev\code\.net\csharpfeature\cs11\obj\Debug\net9.0\ref\cs11.dll
