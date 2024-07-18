@@ -34,24 +34,31 @@
 //PatternMatchSpan.Method();
 
 //10.Extended nameof scope
-try
-{
-    var person = new Person();
-    person.Name = null;
-}
-catch (System.Exception ex)
-{    
-    Console.WriteLine(ex.Message);
-}
+// try
+// {
+//     var person = new Person();
+//     person.Name = null;
+// }
+// catch (System.Exception ex)
+// {    
+//     Console.WriteLine(ex.Message);
+// }
 
 //11.UTF-8 string literals
-ReadOnlySpan<byte> u8Span = "ABC"u8; //65, 66, 67
-UTF8StringLiterals.Method(u8Span.ToArray());
+// ReadOnlySpan<byte> u8Span = "ABC"u8; //65, 66, 67
+// UTF8StringLiterals.Method(u8Span.ToArray());
 
 //12.Required members
 //var motor = new Motor("Toyota");
-var car = new Car("Toyota");
+//var car = new Car("Toyota");
 
 //13.ref struct
 //Span<int> span = RefStruct.Foo( 1);
 
+//14.File local types
+var p = new PersonDTO(){ 
+    FirstName = "do",
+    LastName = "ku",
+ };
+ HttpPersonProcessor.Process(p);
+ SQLPersonProcessor.Process(p);
