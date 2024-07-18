@@ -25,9 +25,9 @@ public class GenericAttributes
 
 public class Moon
 {
-    public string Name { get; set; }
+    public string? Name { get; set; }
 
-    public string DiscoveredBy { get; set; }
+    public string? DiscoveredBy { get; set; }
 
     [NumberValidation<int>(MaxValue = 2023)]
     public int DiscoveryYear { get; set; }
@@ -42,13 +42,13 @@ public class Moon
 
 public class NumberValidation<T> : ValidationAttribute where T : INumber<T>
 {
-    public T MinValue { get; set; } = (T)typeof(T).GetField("MinValue").GetValue(null);
-    public T MaxValue { get; set; } = (T)typeof(T).GetField("MaxValue").GetValue(null);
+    public T? MinValue { get; set; } = (T?)typeof(T).GetField("MinValue")!.GetValue(null);
+    public T? MaxValue { get; set; } = (T?)typeof(T).GetField("MaxValue")!.GetValue(null);
 
     protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
     {
         var num = (T?)value;
 
-        return num != null && num >= MinValue && num <= MaxValue ? ValidationResult.Success : new ValidationResult(null);
+        return num != null && num >= MinValue! && num <= MaxValue! ? ValidationResult.Success : new ValidationResult(null);
     }
 }
