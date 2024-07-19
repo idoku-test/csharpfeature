@@ -1,0 +1,15 @@
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.AssemblyInfoInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.AssemblyInfo.cs
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.csproj.CoreCompileInputs.cache
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.sourcelink.json
+C:\Doku\dev\code\.net\csharpfeature\cs09\bin\Debug\net9.0\cs09.exe
+C:\Doku\dev\code\.net\csharpfeature\cs09\bin\Debug\net9.0\cs09.deps.json
+C:\Doku\dev\code\.net\csharpfeature\cs09\bin\Debug\net9.0\cs09.runtimeconfig.json
+C:\Doku\dev\code\.net\csharpfeature\cs09\bin\Debug\net9.0\cs09.dll
+C:\Doku\dev\code\.net\csharpfeature\cs09\bin\Debug\net9.0\cs09.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.dll
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\refint\cs09.dll
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.pdb
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\cs09.genruntimeconfig.cache
+C:\Doku\dev\code\.net\csharpfeature\cs09\obj\Debug\net9.0\ref\cs09.dll
